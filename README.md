@@ -2,7 +2,7 @@
 
 A simulation designed to compare A* and D* search algorithms in different types of unkown terrain.
 
-The alogrithms' implementations are based on the papers:
+The algorithms' implementations are based on the papers:
 
 [Original D*](http://www.frc.ri.cmu.edu/~axs/doc/icra94.pdf)
 
